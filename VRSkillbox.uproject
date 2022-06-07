@@ -20,5 +20,10 @@
 				"Mac"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"HoloLens",
+		"WindowsNoEditor"
 	]
 }
