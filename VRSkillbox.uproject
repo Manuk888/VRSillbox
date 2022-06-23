@@ -19,6 +19,10 @@
 				"Win64",
 				"Mac"
 			]
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
